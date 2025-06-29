@@ -1,4 +1,4 @@
-import { pageLinks, socialLinks, footerLinks } from "../data"
+import { pageLinks, socialLinks } from "../data"
 
 function Footer() {
   return (
